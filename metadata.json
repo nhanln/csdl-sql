@@ -1,0 +1,6 @@
+{
+  "name": "SQL Master - Học & Thực Hành SQL Tương Tác",
+  "description": "Nền tảng học và thực hành SQL tương tác với SQLite WebAssembly, trình biên dịch client-side tức thì, bài tập thực tế và trợ lý AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
